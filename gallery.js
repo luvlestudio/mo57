@@ -58,7 +58,7 @@ window.onload = () => {
       },
       buttons: [
         {
-          title: "자세히 보기",
+          title: "모바일청첩장 보기",
           link: {
             mobileWebUrl: "https://mo57.luvle.co.kr",
             webUrl: "https://mo57.luvle.co.kr",
