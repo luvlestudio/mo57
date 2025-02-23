@@ -1,12 +1,12 @@
 /** 신랑 카카오페이링크, 없으면 ''으로 둔다 주소를 넣으면 되고, 없으면 ''으로 두삼 */
 const kakaoPayGroomLink = [
-  '', // 1번째 계좌
+  'https://qr.kakaopay.com/Ej8LYw55m', // 1번째 계좌
   '', // 2번째 계좌
   '', // 3번째 계좌
 ];
 /** 신부 카카오페이링크, 없으면 ''으로 둔다  */
 const kakaoPayBrideLink = [
-  '', // 1번째 계좌
+  'https://qr.kakaopay.com/Ej8ifpe2R', // 1번째 계좌
   '', // 2번째 계좌
 ]
 

@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "강시안 ♥ 전인경의 모바일 청첩장",
         description: "2025년 4월 13일 일요일♡",
-        imageUrl: "https://i.imgur.com/eQ0PKZu.png",
+        imageUrl: "https://i.imgur.com/ZAqDXos.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
